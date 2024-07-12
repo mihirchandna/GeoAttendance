@@ -20,16 +20,16 @@ GeoHostel is a mobile application for Android devices that leverages location-ba
 Download GeoHostel APK
 
 ## Technologies Used
-Android Studio
-Java
-Firebase Realtime Database
-Google Play Services Location API
-BiometricPrompt API
+* Android Studio
+* Java
+* Firebase Realtime Database
+* Google Play Services Location API
+* BiometricPrompt API
 
 ## Installation
-Download the APK file from the link above.
-Enable installation from unknown sources in your Android settings.
-Install the app on your Android device.
+* Download the APK file from the link above.
+* Enable installation from unknown sources in your Android settings.
+* Install the app on your Android device.
 
 ## Usage
 
