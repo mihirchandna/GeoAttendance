@@ -31,7 +31,7 @@ Google Play Services Location API
 BiometricPrompt API
 
 ## Installation
-[https://github.com/mihirchandna/GeoAttendance/releases/tag/app] (Download the APK file from the link.)
+[Download the APK file from the link.] (https://github.com/mihirchandna/GeoAttendance/releases/tag/app)
 Enable installation from unknown sources in your Android settings.
 Install the app on your Android device.
 
