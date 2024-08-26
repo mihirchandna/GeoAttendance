@@ -49,7 +49,7 @@ Authenticate using your fingerprint to mark attendance.
 Log in using admin credentials.
 Control the availability of the attendance marking feature.
 View real-time attendance reports and manage student data.
-<--![image](https://github.com/user-attachments/assets/22398d55-73ec-424a-9b34-49132fe5ef15)
+<!-- ![image](https://github.com/user-attachments/assets/22398d55-73ec-424a-9b34-49132fe5ef15)
 
 ![image](https://github.com/user-attachments/assets/9c479ac5-352b-4eda-9777-74127e745c52)
 
