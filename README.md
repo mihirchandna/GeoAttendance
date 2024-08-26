@@ -11,7 +11,13 @@ GeoHostel is a mobile application for Android devices that leverages location-ba
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/22398d55-73ec-424a-9b34-49132fe5ef15)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/22398d55-73ec-424a-9b34-49132fe5ef15" width="250px"></td>
+    <td><img src="https://github.com/user-attachments/assets/9c479ac5-352b-4eda-9777-74127e745c52" width="250px"></td>
+    <td><img src="[path/to/image3.jpg](https://github.com/user-attachments/assets/79ef4fdc-bc9c-4aee-9ee2-f8ca6026255a)" width="250px"></td>
+  </tr>
+</table>![image](https://github.com/user-attachments/assets/22398d55-73ec-424a-9b34-49132fe5ef15)
 
 ![image](https://github.com/user-attachments/assets/9c479ac5-352b-4eda-9777-74127e745c52)
 
